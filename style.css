@@ -85,7 +85,7 @@ a {
 .heading::after {
   content: "";
   position: absolute;
-  height: 3px;
+  height: 4px;
   width: 60px;
   left: 102px;
   bottom: -40px;
