@@ -73,6 +73,7 @@ a {
 }
 .heading {
   position: relative;
+  display: inline-block;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 30px;
@@ -86,7 +87,7 @@ a {
   position: absolute;
   height: 3px;
   width: 60px;
-  left: 519px;
+  left: 102px;
   bottom: -40px;
   background-color: #f38181;
 }
@@ -96,7 +97,7 @@ a {
   font-size: 15px;
   line-height: 18px;
   text-align: center;
-
+  margin: 0 0 27px 0;
   color: #b6b6b6;
 }
 
