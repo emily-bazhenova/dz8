@@ -6,7 +6,7 @@ header {
 }
 
 .logo-link {
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 30px;
   line-height: 37px;
@@ -31,7 +31,7 @@ a {
 
 .nav-link {
   position: relative;
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   font-size: 14px;
   line-height: 17px;
   color: #95e1d3;
@@ -65,7 +65,7 @@ a {
 }
 
 .above-heading {
-  font-family: Kaushan Script;
+  font-family: "Kaushan Script", cursive;
   font-size: 24px;
   line-height: 35px;
   color: #333333;
@@ -73,7 +73,7 @@ a {
 }
 .heading {
   position: relative;
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 30px;
   line-height: 37px;
@@ -92,7 +92,7 @@ a {
 }
 
 .text {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 15px;
   line-height: 18px;
   text-align: center;
@@ -114,7 +114,7 @@ ul {
 }
 
 .name {
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
@@ -124,7 +124,7 @@ ul {
 }
 
 .position {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: italic;
   font-weight: 300;
   font-size: 15px;
