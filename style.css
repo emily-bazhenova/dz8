@@ -7,7 +7,7 @@ header {
 
 .logo-link {
   font-family: "Montserrat", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 30px;
   line-height: 37px;
   color: #95e1d3;
@@ -75,7 +75,7 @@ a {
   position: relative;
   display: inline-block;
   font-family: "Montserrat", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 30px;
   line-height: 37px;
   color: #333333;
