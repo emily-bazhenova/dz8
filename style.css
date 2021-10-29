@@ -176,7 +176,7 @@ ul {
   width: 350px;
 }
 
-.service-items:nth-child(-n + 3) {
+.service-items:first-child {
   margin-bottom: 100px;
 }
 
